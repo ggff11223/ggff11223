@@ -7,6 +7,9 @@ Full Stack Development and Mobile Application Development
 * 🌍  I'm based in Nonthaburi ,Thailand
 * ✉️  You can contact me at [kaer802@gmail.com](mailto:kaer802@gmail.com)
 
+<a href="https://www.github.com/ggff11223" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ggff11223?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 
@@ -24,5 +27,3 @@ Full Stack Development and Mobile Application Development
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ggff11223"><img src="https://github-readme-stats.vercel.app/api?username=ggff11223&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ggff11223's GitHub stats" /></a>
-
-<a href="https://github.com/ggff11223" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggff11223&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
